@@ -1,0 +1,22 @@
+.tZone {
+    text-align: center;
+}
+body {
+    background-color: dimgray;
+    margin-left: 30%;
+    margin-right: 30%;
+    color: white;
+}
+.pracHead {
+    /*margin:0px 30% 0px 30%;
+    */
+    border: 2px;
+    background-color: maroon;
+}
+nav {
+    text-align: center;
+}
+section {
+    display: block;
+    background-color: maroon;
+}
